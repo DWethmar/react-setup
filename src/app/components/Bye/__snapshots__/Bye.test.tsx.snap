@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bye should match snapshot 1`] = `
+<h1>
+  Bye 
+  programmer
+  !
+</h1>
+`;

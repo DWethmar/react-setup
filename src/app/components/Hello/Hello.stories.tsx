@@ -6,4 +6,4 @@ export default {
     component: Hello,
 };
 
-export const Default = () => <Hello compiler="typescript" framework="react" />;
+export const Default = (): React.ReactElement => <Hello compiler="typescript" framework="react" />;

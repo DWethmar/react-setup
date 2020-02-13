@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Hello should render correctly in "debug" mode 1`] = `
+exports[`Hello should match snapshot 1`] = `
 <h1>
   Hello from 
   typescript
