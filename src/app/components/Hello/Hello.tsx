@@ -1,7 +1,7 @@
 import * as React from 'react';
 import * as PropTypes from 'prop-types';
 
-import './hello.scss';
+import './Hello.scss';
 
 export interface HelloProps {
     compiler: string;
